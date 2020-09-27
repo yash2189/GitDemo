@@ -14,4 +14,5 @@
 ##  Registration
   ##### Negative Test Cases
 * Test 1.1 : Leaving the fields empty
+
 ![Capture](https://user-images.githubusercontent.com/31548778/94349055-b8a9e580-005e-11eb-831a-7840a2b5f062.PNG)
